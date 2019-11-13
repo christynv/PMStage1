@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity
     private static final String NOW_URL = "https://api.themoviedb.org/3/movie/now_playing?";
     private static final String POPULAR_URL = "https://api.themoviedb.org/3/movie/popular?";
     private static final String TOP_RATED_URL = "https://api.themoviedb.org/3/movie/top_rated?";
-    private static final String API_KEY = "api_key=88c4a89e559e851be56b336a5cdb1cc2&language=en-US";
+    private static final String API_KEY = "yourAPIhere";
     private static final String PAGE_NUM = "&page=";
     private static String URL = NOW_URL;
 
