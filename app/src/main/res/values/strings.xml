@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="home_menu">Home</string>
+    <string name="sort_movies">Sort</string>
+    <string name="by_pop">By Popularity</string>
+    <string name="by_rate">By Top Rated</string>
+</resources>

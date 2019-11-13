@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/now_playing"
+        android:title="@string/home_menu"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sort_movies"
+        android:title="@string/sort_movies"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/pop_movies"
+        android:title="@string/by_pop"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/tr_movies"
+        android:title="@string/by_rate"
+        app:showAsAction="collapseActionView" />
+
+</menu>
